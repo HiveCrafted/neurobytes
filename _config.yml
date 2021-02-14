@@ -14,7 +14,7 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  maki:
+  sal:
     name: Maki
     display_name: Maki
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -22,7 +22,7 @@ authors:
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  sandon:
+  john:
     name: Sandon
     display_name: Sandon    
     avatar: 'assets/images/avatar.png'
@@ -76,4 +76,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, .gitignore]
