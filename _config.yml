@@ -14,18 +14,19 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  sal:
+  maki:
     name: Maki
     display_name: Maki
+    avatar: 'assets/images/avatar_maki_source_getavataaars-com.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
+  sandon:
     name: Sandon
-    display_name: Sandon    
-    avatar: 'assets/images/avatar.png'
+    display_name: Sandon
+    avatar: 'assets/images/avatar_sandon_source_getavataaars-com.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
@@ -66,7 +67,7 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"

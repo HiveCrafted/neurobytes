@@ -5,9 +5,64 @@
     <description>Home of the NeuroBytes Podcast</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2021 17:29:41 -0600</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2021 17:29:41 -0600</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2021 09:39:27 -0600</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2021 09:39:27 -0600</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Stoicism as a Way of Life</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“If someone else handed over your body to a person whom you encountered, you’d be furious; but that you hand over your mind to anyone who comes along, so that, if he abuses you, it becomes disturbed and confused, do you feel no shame at that?” — Epictetus&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The stoic mindset &lt;a href=&quot;https://www.inc.com/peter-economy/bezos-musk-gates-and-buffett-use-this-ancient-phil.html&quot; target=&quot;_blank&quot;&gt;has been studied and adopted by Elon Musk, Bill Gates, Warren Buffett&lt;/a&gt; and other high achievers of today (as well as many influential people from the past, including George Washington, Thomas Jefferson and Ralph Waldo Emerson).&lt;/p&gt;
+
+&lt;p&gt;Below we’ll explore why stoicism is considered an ideal productivity system by the highly successful entrepreneur and author Tim Ferriss. We’ll learn what it is, why and how it helps create changes in your life, why you might want to integrate some of its wisdom into your daily routines.&lt;/p&gt;
+
+&lt;p&gt;There has been a surge in popularity in the past decade of “stoicism”, a highly practical approach to living that can lead to an abundance of internal peace as well as external success in our work and personal lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/stoicism_subreddit_membership.png&quot; alt=&quot;image info&quot; /&gt;
+&lt;em&gt;The Stoicism Subreddit, started in 2009, grew its membership from 7k in 2013 to over 366k in 2021.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;While some in personal productivity communities are aware of what stoicism is, it remains relatively unknown to the general population.&lt;/p&gt;
+
+&lt;p&gt;We can control how we approach things even if we cannot control what happens to us. We must learn to accept and work with reality while always striving to improve ourselves using these four cardinal virtues:&lt;/p&gt;
+
+&lt;p&gt;Wisdom: the ability to navigate complex situations in a rational manner&lt;/p&gt;
+
+&lt;p&gt;Temperance: the exercise of restraint and maintaining moderation in all aspects of life&lt;/p&gt;
+
+&lt;p&gt;Justice: treating others fairly in all situations, even when they have done wrong&lt;/p&gt;
+
+&lt;p&gt;Courage: facing daily and major challenges with clarity and integrity&lt;/p&gt;
+
+&lt;h3 id=&quot;the-floating-clouds-of-thought-concept-zen-buddhism-and-stoicism&quot;&gt;the “Floating Clouds of thought” concept: Zen, Buddhism and Stoicism&lt;/h3&gt;
+&lt;p&gt;Stoicism has some interesting overlapping characteristics with Buddhism and Zen teachings.&lt;/p&gt;
+
+&lt;p&gt;One principle that links Stoicism to traditions that value mindfulness meditation has to do with the reduction of thoughts within the mind. The experience that those who practice meditation report is that by quieting the mind, the naturally-occurring essence of the life within us not blocked by having our attention be held by thoughts.&lt;/p&gt;
+
+&lt;p&gt;At the core of Stoicism is the notion that as individuals, there are only a few things that are within our control. By paying attention to the thoughts that create anxiety within us, we can then ask “is this something that I can either control or influence?” If not, then we allow it to be. We accept it as is, for it cannot at this moment be any other way. You cannot change the present moment. It is the inevitable result of all things that grew toward its current state. You only have one option in any moment, and that is in how you direct your awareness. You can choose what to focus on, where to put your attention, what to do and what to say. And through each moment’s choice, you participate in the creative unfolding of the future.&lt;/p&gt;
+
+&lt;p&gt;Zen and Buddhist traditions teach that thoughts are like clouds in the sky, passing by, blocking the sun from time to time, but above them are always blue skies. We cannot control the clouds, meaning we cannot control the thoughts that pass through our minds. But we can choose to focus our awareness not on the thoughts but on something like our breathing, or body awareness.&lt;/p&gt;
+
+&lt;p&gt;Through a different mechanism, but to a similar end, Stoicism trains us to have a natural reduction in the number of and frequency of recurring thoughts that may swim around in our heads and pop up to distract us from what is right in front of us. We have only one locus of control in our minds. We therefore can not be both allowing some thought to hold our attention which is not related either to a matter at hand which would benefit from your attention on it here and now, so in other words we cannot expect to be both preoccupied by some currently irrelevant and non-actionable thought, and also simultaneously be present and at our best#If we are not allowing our awareness to be as it was built to be, then we are allowing our power to be used. This can only happen at the highest level when we are “feeling the flow state”. This can only be felt when our awareness is here and now, enjoying the process of either creating something, improving something, or simply enjoying some experience.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2021 00:00:00 -0600</pubDate>
+        <link>/stoicism-intro-1/</link>
+        <guid isPermaLink="true">/stoicism-intro-1/</guid>
+        
+        <category>stoicism</category>
+        
+        <category>philosophy</category>
+        
+        <category>morality</category>
+        
+        <category>mental health</category>
+        
+        
+        <category>Philosophy &amp; Religion</category>
+        
+      </item>
     
       <item>
         <title>Les Ambassadeurs, the first Restaurant we Visited in Paris</title>
@@ -207,7 +262,7 @@
 &lt;pre&gt;&lt;code class=&quot;language-md&quot;&gt;---
 layout: post
 title:  &quot;Inception Movie&quot;
-author: john
+author: sandon
 categories: [ Lifestyle ]
 tags: [red, yellow]
 image: assets/images/11.jpg
@@ -248,29 +303,6 @@ rating: 4.5
         <guid isPermaLink="true">/french-wine/</guid>
         
         <category>France</category>
-        
-        
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>The Observer - National Gallery of Art, Washington, United States</title>
-        <description>&lt;p&gt;The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The core collection includes major works of art donated by Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener, and Chester Dale.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Gallery’s collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts traces the development of Western Art from the Middle Ages to the present, including the only painting by Leonardo da Vinci in the Americas and the largest mobile created by Alexander Calder.&lt;/p&gt;
-
-&lt;p&gt;The Gallery’s campus includes the original neoclassical West Building designed by John Russell Pope, which is linked underground to the modern East Building, designed by I. M. Pei, and the 6.1-acre (25,000 m2) Sculpture Garden.&lt;/p&gt;
-
-&lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
-        <link>/the-observer/</link>
-        <guid isPermaLink="true">/the-observer/</guid>
         
         
         <category>Lifestyle</category>
