@@ -4,7 +4,7 @@ title: "NeuroBytes Podcast"
 description: "Home of the NeuroBytes Podcast"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: '/neurobytes/'
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'neurobytes'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -55,7 +55,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: rouge
+highlighter: hidden
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
