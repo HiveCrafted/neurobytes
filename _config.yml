@@ -1,7 +1,7 @@
 # Site
 name: "NeuroBytes Podcast"
 title: "NeuroBytes Podcast"
-description: "Home of the NeuroBytes Podcast"
+description: "The NeuroBytes Podcast"
 logo: 'assets/images/neurobytes.png'
 favicon: 'assets/images/neurobytes.png'
 baseurl: '/neurobytes'
