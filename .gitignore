@@ -1,7 +1,6 @@
 # Source: https://gist.githubusercontent.com/bradonomics/cf5984b6799da7fdfafd/raw/3dcbd35f428420ff0d811adaab5adc1adb9bb306/.gitignore
 
 ### Jekyll ###
-_site
 .jekyll-metadata
 *-cache/
 
