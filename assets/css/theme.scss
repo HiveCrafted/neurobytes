@@ -268,6 +268,7 @@ img, img:hover {
             transition: background-size .6s ease;
             position:relative;
             color: #F9A747 !important;
+            font-style: italic;
             &:hover {
                 text-decoration:none;
             }
@@ -347,10 +348,10 @@ img, img:hover {
 .pagination {
     justify-content:center;
     a {
-        background: rgba(0,0,0,0.05);
-        color:#000;
+        background: rgba(37,37,37,0.05);
         cursor:pointer;
         &:hover {
+            color: #000000;
             background: $primary;
             text-decoration:none;
         }
@@ -362,6 +363,7 @@ img, img:hover {
         border-radius: 50%;
         text-align: center;
         line-height: 40px;
+        color: #dddddd;
     }
     span {
         border:0;
