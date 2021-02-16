@@ -3,7 +3,7 @@
 ---
 
 $brown: #B59F62;
-$teal: #40FFDC;
+$teal: #CE77CF;
 $black: #111;
 $primary: $teal;
 $dark:    $black;
@@ -40,11 +40,11 @@ h1,h2,h3,h4,h5,h6 {
     padding-top:50px;
 }
 .sitetag {
-    font-family: 'Ubuntu', sans-serif;
     font-style: italic;
     font-weight:600;    
     line-height:1.3;
     font-size:35px;
+    color: #F9A747;
     @include media-breakpoint-up(sm) {
         font-size:50px;
         line-height:1.2;
@@ -229,7 +229,6 @@ img, img:hover {
     }
 }
 
-
 // blog grid
 .blog-grid-container {
     width: auto;
@@ -251,6 +250,7 @@ img, img:hover {
     }
     .card {
         border:0;
+        background-color:#612262;
         &:hover {           
            .card-title a { 
                 background-size: 100% 100%;
@@ -267,6 +267,7 @@ img, img:hover {
             background-size: 0 100%;
             transition: background-size .6s ease;
             position:relative;
+            color: #F9A747 !important;
             &:hover {
                 text-decoration:none;
             }
@@ -277,9 +278,11 @@ img, img:hover {
         font-size:16px;
         line-height:1.8;
         margin-top:15px;
+        color: #ffffff;
     }
     .card-footer {
        font-size:14px;
+       background-color:#612262 !important;
         border-top:0;
         padding: 1rem 1.25rem;
         a {
@@ -290,6 +293,10 @@ img, img:hover {
     .post-date {
         float:right;
         margin-top: 10px;
+        color: #ffffff;
+    }
+    .post-name {
+        color: #F9A747 !important;
     }
     .img-thumb {
         object-fit:cover;
