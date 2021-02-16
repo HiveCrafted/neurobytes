@@ -3,7 +3,7 @@ name: "NeuroBytes Podcast"
 title: "NeuroBytes Podcast"
 description: "The NeuroBytes Podcast"
 logo: 'assets/images/neurobytes.png'
-favicon: 'assets/images/neurobytes.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: '/neurobytes'
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'neurobytes'
