@@ -7,7 +7,7 @@ $teal: #CE77CF;
 $black: #111;
 $primary: $teal;
 $dark:    $black;
-$enable-rounded: false;
+$enable-rounded: true;
 
 @import "bootstrap/functions";
 @import 'bootstrap/variables';
@@ -22,7 +22,7 @@ body, input, button, select, optgroup, textarea {
 }
 body {
     line-height:1.7;
-    background: #252525;
+    background: #000000;
     color: #ffffff;
 }
 a {
@@ -129,7 +129,7 @@ img, img:hover {
     height: 100%;
     border-right: solid rgba(0, 0, 0, 1) 1px;
     z-index: 1022;
-    background: #111111;
+    background: #240621;
 }
 .nav-icon {
     position: fixed;
@@ -196,7 +196,7 @@ img, img:hover {
     left: 0;
     height: 100%;
     width: 420px;
-    background: #000000;
+    background: #240621;
     padding: 0;
     margin: 0;
     transform: translate(-100%, 0);
@@ -250,12 +250,14 @@ img, img:hover {
     }
     .card {
         border:0;
-        background-color:#612262;
+        background-color:#240621;
+        border-radius:10px;
+
         &:hover {           
            .card-title a { 
                 background-size: 100% 100%;
             }
-        }
+        }   
     }
     .card-title {
         font-weight:700;
@@ -282,9 +284,11 @@ img, img:hover {
         color: #ffffff;
     }
     .card-footer {
-       font-size:14px;
-       background-color:#612262 !important;
+        font-size:14px;
+        background-color:#4b354b !important;
         border-top:0;
+        border-bottom-right-radius:10px;
+        border-bottom-left-radius:10px;
         padding: 1rem 1.25rem;
         a {
             color:inherit;
