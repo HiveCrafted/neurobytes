@@ -243,6 +243,7 @@ img, img:hover {
     padding: 0;
     display: flex;
     align-items:center;
+    border-radius: 10px;
     .author-thumb {
         width:40px;
         border-radius:50%;
@@ -308,6 +309,8 @@ img, img:hover {
         height:240px;
         width:100%;
         object-position:top;
+        border-top-left-radius:10px;
+        border-top-right-radius:10px;
     }
 }
 .firstpage {
@@ -429,6 +432,7 @@ img, img:hover {
     margin-right: auto;
     margin-top:50px;
     margin-bottom:50px;
+    border-radius: 10px;
 }
 .image-shadow {   
     -webkit-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
