@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Stoicism as a Way of Life"
-author: sandon
+title:  "Stoicism as a Way of Life Pt. 1"
+author: sandonmaki
 categories: [ Philosophy & Religion ]
 tags: [ stoicism, philosophy, morality, mental health ]
-description: "Below we’ll explore why stoicism is considered an ideal productivity system by the highly successful entrepreneur and author Tim Ferriss. We’ll learn what it is, why and how it helps create changes in your life, why you might want to integrate some of its wisdom into your daily routines."
+description: "What is stoicism and how can you integrate stoicism into your daily life?"
 image: assets/images/stoicism_v3.png
-rating: 5.0
 ---
 
 > “If someone else handed over your body to a person whom you encountered, you’d be furious; but that you hand over your mind to anyone who comes along, so that, if he abuses you, it becomes disturbed and confused, do you feel no shame at that?” — Epictetus
