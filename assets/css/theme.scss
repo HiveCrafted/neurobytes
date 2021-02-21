@@ -3,9 +3,9 @@
 ---
 
 $brown: #B59F62;
-$teal: #CE77CF;
+$lpurple: #CE77CF;
 $black: #111;
-$primary: $teal;
+$primary: $lpurple;
 $dark:    $black;
 $enable-rounded: true;
 
@@ -66,10 +66,11 @@ blockquote {
     font-family: 'Lora', serif;
     font-style: italic;
     font-size: 18px;
-    position:relative;
-    border-left:1px solid $teal;
-    margin-left:30px;
-    padding-left:15px;
+    position: relative;
+    border-left:1px solid $lpurple;
+    line-height: 30px;
+    margin-left: 30px;
+    padding-left: 15px;
     cite {
         font-weight:700;
     }
