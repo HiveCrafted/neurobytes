@@ -8,7 +8,7 @@ description: "What is stoicism and how can you integrate stoicism into your dail
 image: assets/images/stoicism_v3.png
 ---
 
-> “If someone else handed over your body to a person whom you encountered, you’d be furious; but that you hand over your mind to anyone who comes along, so that, if he abuses you, it becomes disturbed and confused, do you feel no shame at that?” — Epictetus
+> “If someone else handed over your body to a person whom you encountered, you’d be furious; but that you hand over your mind to anyone who comes along, so that, if he abuses you, it becomes disturbed and confused, do you feel no shame at that?”<br>— Epictetus
 
 The stoic mindset <a href="https://www.inc.com/peter-economy/bezos-musk-gates-and-buffett-use-this-ancient-phil.html" target="_blank">has been studied and adopted by Elon Musk, Bill Gates, Warren Buffett</a> and other high achievers of today (as well as many influential people from the past, including George Washington, Thomas Jefferson and Ralph Waldo Emerson).
 
