@@ -18,9 +18,9 @@ In studying the <i>Agreements</i>, we can see that many of them overlap with ten
 
 ### 1. Be impeccable with your word.
 
-> “The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own…”<br>— Epictetus
+> “The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own…”<br><span class="attribution">— Epictetus</span>
 
-> “Better to trip with the feet than the tongue.”<br>— Zeno
+> “Better to trip with the feet than the tongue.”<br><span class="attribution">— Zeno</span>
 
 Epictetus taught us that the heart of the stoic philosophy is the concept that many matters are outside of our control, except our choices, which are fully within our control. Our word then is a powerful tool, because not only is it something within our control, but it's how we communicate to others what our intentions are and tell them what to expect from us. At its core, our word and how we use it is one of the most important ways we interact with others in the world.
 
@@ -30,36 +30,36 @@ Over-promising, under-delivering, and generally not following through will not o
 
 ### 2. Don't take anything personally.
 
-> "Don't take anything personally. Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won't be the victim of needless suffering.<br>— Don Miguel Ruiz
+> "Don't take anything personally. Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won't be the victim of needless suffering.<br><span class="attribution">— Don Miguel Ruiz</span>
 
-> "Someone despises me. That’s their problem. Mine: not to do or say anything despicable. Someone hates me. Their problem. Mine: to be patient and cheerful with everyone, including them. Ready to show them their mistake. Not spitefully, or to show off my own self-control, but in an honest, upright way."<br>—Marcus Aurelius
+> "Someone despises me. That’s their problem. Mine: not to do or say anything despicable. Someone hates me. Their problem. Mine: to be patient and cheerful with everyone, including them. Ready to show them their mistake. Not spitefully, or to show off my own self-control, but in an honest, upright way."<br><span class="attribution">— Marcus Aurelius</span>
 
-> "When people injure you, ask yourself what good or harm they thought would come of it. If you understand that, you’ll feel sympathy rather than outrage or anger. Your sense of good and evil may be the same as theirs, or near it, in which case you have to excuse them. Or your sense of good and evil may differ from theirs. In which case they’re misguided and deserve your compassion. Is that so hard?"<br>— Marcus Aurelius
+> "When people injure you, ask yourself what good or harm they thought would come of it. If you understand that, you’ll feel sympathy rather than outrage or anger. Your sense of good and evil may be the same as theirs, or near it, in which case you have to excuse them. Or your sense of good and evil may differ from theirs. In which case they’re misguided and deserve your compassion. Is that so hard?"<br><span class="attribution">— Marcus Aurelius</span>
 
-> "You don’t have to turn this into something. It doesn’t have to upset you." <br>— Marcus Aurelius
+> "You don’t have to turn this into something. It doesn’t have to upset you." <br><span class="attribution">— Marcus Aurelius</span>
 
 ### 3. Don't make assumptions.
 
-> "'If you seek tranquillity, do less.' Or (more accurately) do what’s essential... Which brings a double satisfaction: to do less, better. Because most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquillity. Ask yourself at every moment, “Is this necessary?” But we need to eliminate unnecessary assumptions as well to eliminate the unnecessary actions that follow."<br>— Marcus Aurelius
+> "'If you seek tranquillity, do less.' Or (more accurately) do what’s essential... Which brings a double satisfaction: to do less, better. Because most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquillity. Ask yourself at every moment, “Is this necessary?” But we need to eliminate unnecessary assumptions as well to eliminate the unnecessary actions that follow."<br><span class="attribution">— Marcus Aurelius</span>
 
->"It is impossible to begin to learn that which one thinks one already knows." <br>— Epictetus
+>"It is impossible to begin to learn that which one thinks one already knows." <br><span class="attribution">— Epictetus</span>
 
 ### 4. Always do your best.
 
-> "Waste no more time arguing what a good man should be. Be One."<br>— Marcus Aurelius
+> "Waste no more time arguing what a good man should be. Be One."<br><span class="attribution">— Marcus Aurelius</span>
 
-> "If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone."<br>— Marcus Aurelius
+> "If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone."<br><span class="attribution">— Marcus Aurelius</span>
 
-> "Be tolerant with others and strict with yourself."<br>— Marcus Aurelius
+> "Be tolerant with others and strict with yourself."<br><span class="attribution">— Marcus Aurelius</span>
 
-> "Remind yourself that your task is to be a good human being; remind yourself what nature demands of people. Then do it, without hesitation, and speak the truth as you see it. But with kindness. With humility. Without hypocrisy."<br>— Marcus Aurelius
+> "Remind yourself that your task is to be a good human being; remind yourself what nature demands of people. Then do it, without hesitation, and speak the truth as you see it. But with kindness. With humility. Without hypocrisy."<br><span class="attribution">— Marcus Aurelius</span>
 
 ### 5. Be skeptical, but learn to listen.
 
-> "The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are."<br>— Marcus Aurelius
+> "The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are."<br><span class="attribution">— Marcus Aurelius</span>
 
-> "We have two ears and one mouth, therefore we should listen twice as much as we speak."<br>— Zeno
+> "We have two ears and one mouth, therefore we should listen twice as much as we speak."<br><span class="attribution">— Zeno</span>
 
-> "Nothing has such power to broaden the mind as the ability to investigate systematically and truly all that comes under thy observation in life."<br>— Marcus Aurelius
+> "Nothing has such power to broaden the mind as the ability to investigate systematically and truly all that comes under thy observation in life."<br><span class="attribution">—  Marcus Aurelius</span>
 
-> "If you want to improve, be content to be thought foolish and stupid."<br>― Epictetus
+> "If you want to improve, be content to be thought foolish and stupid."<br><span class="attribution">― Epictetus</span>

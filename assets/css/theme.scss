@@ -63,17 +63,28 @@ h1,h2,h3,h4,h5,h6 {
     min-width: 180px;
 }
 blockquote {
-    font-family: Times New Roman;
+    font-family: 'Lora', serif;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
     position:relative;
-    border-left:1px solid $dark;
+    border-left:1px solid $teal;
     margin-left:30px;
     padding-left:15px;
     cite {
         font-weight:700;
     }
 }
+.attribution {
+    width: 100%;
+    text-align: right;
+    display: block;
+    text-transform: uppercase;
+    font-style: normal;
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 5px;
+}
+
 // animation
 .nav-icon, 
 .hamburger-bar, 
