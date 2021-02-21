@@ -7,10 +7,10 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'neurobytes'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://neurobytespod.us1.list-manage.com/subscribe/post?u=fd53b3c72e5f8b9843eefd6f5&amp;id=b6f6b60ea7'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: admin@neurobytespod.com
 
 # Authors
 authors:
@@ -19,36 +19,36 @@ authors:
     display_name: Maki
     avatar: 'assets/images/avatar_maki_source_getavataaars-com.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+    email: maki@neurobytespod.com
+    web: https://www.hivecrafted.com
+    twitter: https://twitter.com/neurobytespod
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   makisandon:
     name: Maki & Sandon
     display_name: Maki & Sandon
     avatar: 'assets/images/avatar-MakiSandon.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: us@neurobytespod.com
+    web: https://www.hivecrafted.com
+    twitter: https://twitter.com/neurobytespod
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   sandon:
     name: Sandon
     display_name: Sandon
     avatar: 'assets/images/avatar_sandon_source_getavataaars-com.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: sandon@neurobytespod.com
+    web: https://www.hivecrafted.com
+    twitter: https://twitter.com/neurobytespod
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   sandonmaki:
     name: Sandon & Maki
     display_name: Sandon & Maki
     avatar: 'assets/images/avatar-MakiSandon.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: us@neurobytespod.com
+    web: https://www.hivecrafted.com
+    twitter: https://twitter.com/neurobytespod
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
@@ -73,7 +73,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: hidden
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
