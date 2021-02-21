@@ -1,1 +1,1 @@
-Sitemap: /neurobytes/sitemap.xml
+Sitemap: /sitemap.xml
