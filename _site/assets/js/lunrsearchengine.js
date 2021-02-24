@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "/about",
-    "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
-    "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
+    "title": "About NeuroBytes",
+    "body": "Sandon and Maki are two neurodivergent software engineers out to tackle the universe’s great mysteries and bring you notable insights in the form of neuro bytes. Come explore and learn with us about a variety of topics featuring science, technology, psychology, philosophy, and more.  Listen to NeuroBytes → "
     }, {
     "id": 2,
     "url": "/categories",

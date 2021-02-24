@@ -5,7 +5,7 @@ description: "The NeuroBytes Podcast"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-5QP4L06082'
 disqus: 'neurobytes'
 mailchimp-list: 'https://neurobytespod.us1.list-manage.com/subscribe/post?u=fd53b3c72e5f8b9843eefd6f5&amp;id=b6f6b60ea7'
 include: ["_pages"]
@@ -80,8 +80,8 @@ kramdown:
       disable : true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-8763490763903171"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")

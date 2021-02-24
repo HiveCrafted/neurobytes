@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About NeuroBytes
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Sandon and Maki are two neurodivergent software engineers out to tackle the universe's great mysteries and bring you notable insights in the form of neuro bytes. Come explore and learn with us about a variety of topics featuring science, technology, psychology, philosophy, and more.
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a target="_blank" href="https://neurobytes.transistor.fm/" class="btn btn-dark"> Listen to NeuroBytes &rarr;</a>
 
